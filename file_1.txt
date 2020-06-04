@@ -1,3 +1,3 @@
 thsy doi lan hai
 thay doi lan dau
-day la fix_bug22
+day la fix_bug23
