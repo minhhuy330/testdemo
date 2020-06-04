@@ -1,3 +1,4 @@
 thsy doi lan hai
 thay doi lan dau
 day la fix bug2
+commit lan2
